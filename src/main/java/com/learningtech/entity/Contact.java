@@ -17,5 +17,5 @@ public class Contact {
     private String name;
     private String email;
     private String subject;
-    private String message;
+    private String message;//abcd
 }
